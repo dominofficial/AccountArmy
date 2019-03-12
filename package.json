@@ -1,0 +1,24 @@
+{
+  "name": "youbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "discord.js": "^11.4.2",
+    "fortnite": "^4.2.1",
+    "node": "^11.10.0",
+    "sqlite": "^3.0.2",
+    "sqlite3": "^4.0.6",
+	"express-glitch-keepalive": "^0.2.0",
+    "express": "^4.16.4",
+	"scripts": {
+    "start": "node index.js"
+},
+  }
+}
